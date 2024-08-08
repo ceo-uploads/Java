@@ -1,6 +1,6 @@
 class WideningCasting;
 
-public static void main(string[] args) {
+public static void main(String[] args) {
   int number = 9; // instances..
   double myNumber = number; // casting - int ->> double..
 
